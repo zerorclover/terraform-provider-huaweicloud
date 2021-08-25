@@ -12,3 +12,5 @@ require (
 	github.com/unknwon/com v1.0.1
 	gopkg.in/yaml.v2 v2.3.0
 )
+
+replace github.com/huaweicloud/golangsdk v0.0.0-20210406114125-0f07278d722c => github.com/zerorclover/golangsdk v0.0.0-20210825072916-d7719366a85a
